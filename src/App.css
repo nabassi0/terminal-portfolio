@@ -1,0 +1,62 @@
+.ubuntu-mono-regular {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ubuntu-mono-bold {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ubuntu-mono-regular-italic {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.ubuntu-mono-bold-italic {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+body {
+  padding: 10px;
+  margin: 50px;
+  height: 100vh;
+  font-family: "Ubuntu Mono", monospace;
+  color: white;
+  background-color: black;
+  font-size: large;
+}
+
+.terminal-text {
+  font-weight: bold;
+  color: greenyellow;
+}
+
+.terminal-points {
+  color: white;
+  font-weight: normal;
+}
+
+.terminal-tidle {
+  color: skyblue;
+  font-weight: normal;
+}
+
+.terminal-dollars {
+  color: white;
+  font-weight: normal;
+}
+
+.terminal-input {
+  background-color: black;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 5px;
+  font-size: large;
+}
