@@ -28,13 +28,14 @@ body {
   height: 100vh;
   font-family: "Ubuntu Mono", monospace;
   color: white;
-  background-color: black;
+  background-color: #000000;
   font-size: large;
 }
 
 .terminal-text {
-  font-weight: bold;
-  color: greenyellow;
+  font-weight: normal;
+  color: white;
+  animation: glow 1s ease-in-out infinite alternate;
 }
 
 .terminal-points {
@@ -53,7 +54,7 @@ body {
 }
 
 .terminal-input {
-  background-color: black;
+  background-color: #000000;
   color: white;
   border: none;
   outline: none;

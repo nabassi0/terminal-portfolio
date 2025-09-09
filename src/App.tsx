@@ -5,7 +5,7 @@ function App() {
     <>
       <div className="terminal-container">
         <text className="terminal-text">
-          terminal:portfolio<span className="terminal-points">:</span>
+          portfolio<span className="terminal-points">:</span>
           <span className="terminal-tidle">~</span>
           <span className="terminal-dollars">$</span>
           <input className="terminal-input"></input>
