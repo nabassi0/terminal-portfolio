@@ -9,6 +9,7 @@ export default function Loader() {
                     <span className="dot">.</span>
                     <span className="dot">.</span>
                     <span className="dot">.</span>
+                    
                 </span>
             </span>
         </div>
